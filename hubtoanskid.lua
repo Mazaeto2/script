@@ -1,7 +1,3 @@
---discord.gg/boronide, code generated using luamin.js™
-
-
-
 
 local L_1_ = string.char;
 local L_2_ = string.byte;
